@@ -1,0 +1,6 @@
+a=1
+b=2
+s=a+b
+print("la somme de ", a, "et", b, "est", s)
+print("pas de re", end="")
+print("tour a la ligne")
